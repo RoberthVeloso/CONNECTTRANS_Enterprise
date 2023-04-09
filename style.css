@@ -1,0 +1,30 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+header{
+    width: 100%;
+    background-color: #fab75c;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 20px 0;
+}
+.menu li{
+    display: inline-block;
+    margin: 10px 10px 10px 10px;
+
+}
+.menu li a{
+    font-style: 25px;
+    text-decoration: none;
+    color: black;
+    text-transform: uppercase;
+    padding: 60px 10px 5px;
+    border-radius: 15px;
+}
+.menu li a:hover{
+     background-color: rgba(228, 86, 20, 0.253);
+}
