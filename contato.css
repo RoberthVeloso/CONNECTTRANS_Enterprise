@@ -38,7 +38,7 @@ header .navegacion li{
     
 }
 header .navegacion li a{
-    color:black;
+    color: rgb(255, 255, 255);
     display: inline-block;
     text-decoration: none;
     font-weight: 500;
