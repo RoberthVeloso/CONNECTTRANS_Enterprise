@@ -45,3 +45,11 @@ header .navegacion li a{
     font-size: 19px;
     margin-left: 100px;
 }
+.form {
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    background-color: aliceblue;
+    padding: 3rem;
+}
