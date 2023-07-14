@@ -40,14 +40,14 @@ body {
 
 .login-button button {
     border: none;
-    background-color: #a3df8d;
+    background-color: #0093BB;
     padding: 0.4rem 1rem;
     border-radius: 10px;
     cursor: pointer;
 }
 
 .login-button button:hover {
-    background-color: ##11196e;
+    background-color: #0093BB;
 }
 
 .login-button button a {
