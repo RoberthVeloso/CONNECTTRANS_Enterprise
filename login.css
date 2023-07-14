@@ -24,6 +24,7 @@ body {
     align-items: center;
     background-color: #fff;
     padding: 5rem;
+    border-radius: 50px;
 }
 
 .form-header {
@@ -63,7 +64,7 @@ body {
     background-color: ##11196e;
     margin: 0 auto;
     position: absolute;
-    border-radius: 20px;
+    border-radius: 55px;
 }
 
 .input-group {
@@ -93,7 +94,7 @@ body {
 }
 
 .input-box input:focus-visible {
-    outline: 1px solid #9edf89;
+    outline: 1px solid #004A98;
 }
 
 .input-box label,
