@@ -9,7 +9,7 @@ section{
     width: 100%;
     min-height: 100vh;
     padding: 100px;
-    background-color: #a3df8d;
+    background-color: #004A98;
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -51,8 +51,4 @@ header .navegacion li a{
 
 } 
 
-circle .navegacion li a:hover{
-    transform: translateY(-15px);
-    background-color: #1b7f12;
 
-}
